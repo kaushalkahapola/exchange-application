@@ -1,0 +1,14 @@
+orderId,Cl. Ord. ID,Instrument,Side,ExecutionStatus,Quantity,Price,Reason for Rejection
+1,aa20,Lotus,2,New,480,60.3,
+2,aa03,Orchid,2,New,980,86.33,
+3,aa17,Orchid,1,Rejected,140,-7.22,Invalid Price
+4,aa08,Rose,1,PartiallyFilled,50,60.3,
+1,aa20,Lotus,2,PartiallyFilled,50,60.3,
+5,aa14,Orchid,1,PartiallyFilled,430,60.3,
+1,aa20,Lotus,2,Filled,430,60.3,
+6,aa15,Tulip,2,PartiallyFilled,130,71.24,
+5,aa14,Orchid,1,Filled,130,71.24,
+7,aa07,Lavender,2,New,70,68.06,
+8,aa06,Orchid,1,Rejected,270,-7.54,Invalid Price
+9,aa05,Lotus,1,PartiallyFilled,680,32.76,
+6,aa15,Tulip,2,Filled,680,32.76,

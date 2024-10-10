@@ -4,6 +4,8 @@
 
 The Exchange Application is a system designed for processing and executing orders for floral instruments. It allows users to submit orders via a CSV file and generates an execution report, detailing the status of each order. The application handles validations and provides feedback on the execution status of submitted orders.
 
+[Demo](https://exchange-app.streamlit.app/)
+
 ## Features
 
 - **Order Submission**: Upload a CSV file containing orders for processing.

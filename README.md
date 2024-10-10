@@ -24,8 +24,8 @@ The Exchange Application is a system designed for processing and executing order
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/kaushalkahapola/exchange-application
+   cd exchange-application
    ```
 
 2. Install the required libraries:
